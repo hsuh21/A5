@@ -6,3 +6,9 @@ body{
 .wise{
     color:blue;
 }
+#container{
+    background-color: #f5f5f5;
+    padding: 5px;
+    width: 20%;
+
+}

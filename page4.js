@@ -2,7 +2,7 @@ window.addEventListener("load", function() {
     document.getElementById("wise4").addEventListener("click", playWise4);
 
     function playWise4() {
-        var audio = document.getElementById("wise3audio");
+        var audio = document.getElementById("wise4audio");
         audio.play();
         audio.volume = .6;
     }
