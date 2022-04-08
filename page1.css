@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   }
+#container{
+    background-color: #f5f5f5;
+    padding: 5px;
+    width: 20%;
+
+}
+#wiserock{
+    width: 200px;
+    margin-right: 25%;
+    margin-top: 25%;
+}
+#littlerock{
+    width: 150px;
+    margin-left: 25%;
+    margin-top: 25%
+}
+.wisetext{
+    color:blue;
+}
